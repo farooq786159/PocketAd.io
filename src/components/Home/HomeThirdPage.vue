@@ -3,9 +3,9 @@
 </script>
 
 <template>
-<div  class="bg-gray-500">
+<div  >
     <main class=" relative bg-gradient-to-br from-inherit" >
-        <img src="../icons/pocketad.io_home_image1.png" class=" w-full  mx-auto text-center mb-0 h-[705px] absolute mix-blend-overlay bg-opacity-80">
+        <img src="../icons/pocketad.io_home_image1.png" class=" w-full  mx-auto text-center mb-0 h-[705px] absolute mix-blend-soft-light ">
 
         <div class="w-full h-full "  >
         <!-- <img  alt="" class="w-full h-full"/>     -->
@@ -17,7 +17,7 @@
                 </div>
                 <div class=" grid grid-cols-11 ml-72  mb-5">
                     <img src="../new_incons/svgexport-22.png" class="col-span-1 mr-6 mt-11" alt="">
-                    <span class="col-span-10 font-bold text-[115px] tracking-wide    "> driven design </span>
+                    <span class="col-span-10 font-bold text-[115px] tracking-wide place-self-start "> driven design </span>
                 </div>
                 <div class="md:flex justify-between items-center mt-16 mb-5 ">
                     <p class="text-gray-900 ml-16 font-semibold">Fields of expertise</p>

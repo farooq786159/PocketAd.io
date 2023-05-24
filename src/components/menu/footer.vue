@@ -3,9 +3,9 @@
 
 <template>
 <RouterView>
-<footer class="w-full bg-gray-400 pl-20 pr-20">
-    
-    <section class=" ">
+<footer class="w-full relative   ">
+     <img src="../icons/PocketAd.io_Gradient_Footer.png" alt="" class="  absolute mix-blend-soft-light" >
+    <section class="pl-20 pr-20 ">
 
         <article class="flex justify-between  w-full  pt-20  pb-10">
             <div  class="  w-1/3 text-white  ">
@@ -27,9 +27,9 @@
                 <img src="../new_incons/twitter-white.png" class="object-cover  w-8 text-white block  pb-4">
             </div>
         </article>
-        <div class=" ml-10 relative bg-gradient-to-br from-inherit  ">
+        <div class=" ml-10  bg-gradient-to-br from-inherit  ">
         
-        <img src="../icons/gradientfooter.png" alt="" class=" w-[900px] mx-auto text-center mb-0 h-[270px] absolute mix-blend-overlay bg-opacity-80" >
+       
         <article class="grid grid-cols-11  ">
 
                 

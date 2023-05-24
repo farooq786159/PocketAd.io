@@ -13,7 +13,7 @@
                 <img src="../new_incons/svgexport-20.png" class=" w-10 mt-10 rotate-90 rounded-full p-3 ml-28 mb-20" style="background:#ffff05;">
                 
             </div>
-            <div class=" col-span-4 "><img src="../icons/pocketad.io_home_image2_mobile.png"  class="bg-gradient-to-bl from-green-300 via-blue-600 to-purple-200  object-cover h-full w-full mb-24"></div>
+            <div class=" col-span-4 "><img src="../icons/pocketad.io_home_image2_mobile.png"  class="  object-cover h-full w-full mb-24"></div>
             <div class=" col-span-3 mt-5 ">
             <img src="../new_incons/svgexport-21.png" class=" ml-14 mt-6 w-8">    
             <p class="mt-10 ml-12 mb-12 font-se">We know what <span class="block">We're doing</span> </p>
@@ -23,13 +23,13 @@
 
     <section class="mb-10 mt-10">
         <div class=" inline-flex w-full ">
-            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold">viacom </p>
-            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold ">AVON </p>
-            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold ">mercado <span class="bolck">libre</span> </p>
-            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold ">VISA </p>
-            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold ">IBM </p>
-            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold ">A&E </p>
-            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold ">ICBC </p>
+            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold text-2xl">viacom </p>
+            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold text-2xl">AVON </p>
+            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold text-2xl ">mercado <span class=" block ml-6">libre</span> </p>
+            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold  text-2xl">VISA </p>
+            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold text-2xl">IBM </p>
+            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold text-2xl ">A&E </p>
+            <p class=" border-r-2 p-2  border-b-2 w-1/6 items-center pl-11 h-24 font-bold text-2xl">ICBC </p>
             
         </div>
         <div class="flex justify-between items-center mt-20 mb-2">
