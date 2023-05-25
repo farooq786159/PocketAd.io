@@ -12,8 +12,8 @@
         <img src="" alt="">
             <section class=" text-white  ">
                         <div class="md:flex justify-between ">
-                    <h1 class="font-bold text-[115px] ml-20 mt-12 tracking-wide ">Innovation  </h1>
-                    <p class=" text-xs w-2/12 mt-5 mr-20"> Services that matter are foreseen, bespoke and pertinent to people.  <span class="block mt-5 ">They aren't produced by coincidence, nor are the offspring of ingenuity. Solutions that matter are the culmination of a refined  process of conception, maturation and execution.</span> </p>
+                    <h1 class="font-bold text-[115px] ml-24 mt-12 tracking-wide ">Innovation  </h1>
+                    <p class=" text-xs w-2/12 mt-5 mr-24"> Services that matter are foreseen, bespoke and pertinent to people.  <span class="block mt-5 ">They aren't produced by coincidence, nor are the offspring of ingenuity. Solutions that matter are the culmination of a refined  process of conception, maturation and execution.</span> </p>
                 </div>
                 <div class=" grid grid-cols-11 ml-72  mb-5">
                     <img src="../new_incons/svgexport-22.png" class="col-span-1 mr-6 mt-11" alt="">

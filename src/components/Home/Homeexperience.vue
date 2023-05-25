@@ -13,11 +13,11 @@
                 <img src="../new_incons/svgexport-20.png" class="  w-10 mt-10 rotate-90 rounded-full p-3 ml-28 mb-20" style="background:#ffff05;">
                 
             </div>
-            <div class=" col-span-4 "><img src="../icons/pocketad.io_home_image2_mobile.png"  class="  object-cover h-full w-full mb-24"></div>
-            <div class=" col-span-3 mt-5  ">
+            <div class=" col-span-3 "><img src="../icons/pocketad.io_home_image2_mobile.png"  class=" pl-16 object-cover w-80 "></div>
+            <div class=" col-span-4 mt-5 ml-16  ">
             <img src="../new_incons/svgexport-21.png" class=" ml-14 mt-6  ">    
-            <p class="mt-10 ml-12 mb-12 font-se">We know what <span class="block">We're doing</span> </p>
-            <p class="mt-10 ml-12 text-xs w-48  ">We have spent +30 years creating and re-creating digital solutions, and learned what makes great businesses stay in business. </p>
+            <p class="mt-10  ml-12 mb-12 font-se">We know what <span class="block">We're doing</span> </p>
+            <p class="mt-10 ml-12 text-xs w-64  ">We have spent +30 years creating and re-creating digital solutions, and learned what makes great businesses stay in business. </p>
             </div>       
     </section>
 
