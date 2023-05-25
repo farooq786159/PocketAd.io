@@ -30,14 +30,15 @@
         <div class=" ml-10  bg-gradient-to-br from-inherit  ">
         
        
-        <article class="grid grid-cols-11  ">
+        <article class="flex   ">
 
                 
-            <div class=" col-span-2 border-gray-500  text-white text-[24px]  font-semibold relative border-r-[1px] border-b-[1px]">
+            <div class=" shrink  w-52 border-gray-500  text-white text-[26px]  font-semibold relative border-r-[1px] border-b-[1px]">
                 <span class="absolute  left-0 h-20 text-center mt-24  ">Pocket Ad</span>               
             </div>
-            <div class=" pl-2 col-span-2  mr-10 border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]" >
-                <ul class="  text-[10px]  font-semibold  ">
+            
+            <div class=" pl-4  shrink w-36  border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]" >
+                <ul class="  text-[14px]  font-semibold  ">
                     <li class="font-bold ">Main</li> 
                     <li class=" mt-16 text-[8px]">Home</li>
                     <li class=" mt-1 text-[8px] ">Services</li>
@@ -45,8 +46,8 @@
                     <li class="mt-1 text-[8px] pb-10">Team</li>
                 </ul>
             </div>
-            <div class="pl-2 col-span-2  mr-10 border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]">
-                <ul class="text-[10px]  font-semibold">
+            <div class="pl-4 shrink w-36   border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]">
+                <ul class="text-[14px]  font-semibold">
                 <li class="font-bold ">Services</li> 
                 <li class=" mt-12 text-[8px]">Branding & Strategy</li>
                 <li class=" mt-1 text-[8px] ">Traffic Generation </li>
@@ -55,8 +56,8 @@
                 <li class="mt-1 text-[8px]">Conversion & Sales</li>
             </ul>
              </div>
-            <div class="pl-2 col-span-2  mr-10 border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]">
-                <ul class="text-[10px]  font-semibold">
+            <div class="pl-4 shrink w-36   border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]">
+                <ul class="text-[14px]  font-semibold">
                     <li class="font-bold ">Industries</li> 
                     <li class=" mt-6 text-[8px]">Entertainment</li>
                     <li class=" mt-1 text-[8px] ">Media & OTT </li>
@@ -67,8 +68,8 @@
                     <li class="mt-1 text-[8px]">Information Technology</li>
                 </ul>
             </div>
-            <div class="pl-2 col-span-2   border-gray-500 left-0 text-gray-900  border-b-[1px]">
-                <ul class="text-[10px] pl-4 font-semibold ">
+            <div class="pl-4 shrink w-52 border-gray-500 left-0 text-gray-900  border-b-[1px]">
+                <ul class="text-[14px] pl-4 font-semibold ">
                     <li class="font-bold ">Contacts</li> 
                     <li class=" mt-24 text-[8px]">hello@Pocketad.io</li>
                     <li class="mt-1 text-[8px]">United States/United Kingdom</li>
@@ -76,9 +77,9 @@
             </div>
             
             
-            <div class="col-span-1 border-gray-500 text-gray-900 text-[10px] pl-4 font-semibold relative border-b-[1px]">
+            <div class=" border-gray-500 text-gray-900 text-[14px] pl-4 font-semibold relative ">
             <!-- <icon class="object-cover  w-5 text-white block "/>                 -->
-            <img src="../new_incons/svgexport-11.png" class="object-cover w-11  ml-11 ">
+            <img src="../new_incons/svgexport-11.png" class="object-cover w-11  ml-40 ">
             </div>
             
         </article>
