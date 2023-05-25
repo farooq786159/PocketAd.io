@@ -40,39 +40,39 @@
             <div class=" pl-4  shrink w-36  border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]" >
                 <ul class="  text-[14px]  font-semibold  ">
                     <li class="font-bold ">Main</li> 
-                    <li class=" mt-16 text-[8px]">Home</li>
-                    <li class=" mt-1 text-[8px] ">Services</li>
+                    <li class=" mt-16 text-[10px]">Home</li>
+                    <li class=" mt-1 text-[10px] ">Services</li>
                     <li class="mt-1 text-[8px]">Contact</li>
-                    <li class="mt-1 text-[8px] pb-10">Team</li>
+                    <li class="mt-1 text-[10px] pb-10">Team</li>
                 </ul>
             </div>
             <div class="pl-4 shrink w-36   border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]">
                 <ul class="text-[14px]  font-semibold">
                 <li class="font-bold ">Services</li> 
-                <li class=" mt-12 text-[8px]">Branding & Strategy</li>
-                <li class=" mt-1 text-[8px] ">Traffic Generation </li>
-                <li class="mt-1 text-[8px]">Video Views</li>
-                <li class="mt-1 text-[8px]">Lead Generation</li>
-                <li class="mt-1 text-[8px]">Conversion & Sales</li>
+                <li class=" mt-12 text-[10px]">Branding & Strategy</li>
+                <li class=" mt-1 text-[10px] ">Traffic Generation </li>
+                <li class="mt-1 text-[10px]">Video Views</li>
+                <li class="mt-1 text-[10px]">Lead Generation</li>
+                <li class="mt-1 text-[10px]">Conversion & Sales</li>
             </ul>
              </div>
             <div class="pl-4 shrink w-36   border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]">
                 <ul class="text-[14px]  font-semibold">
                     <li class="font-bold ">Industries</li> 
-                    <li class=" mt-6 text-[8px]">Entertainment</li>
-                    <li class=" mt-1 text-[8px] ">Media & OTT </li>
-                    <li class="mt-1 text-[8px]">Banking,Finance & Crypto</li>
-                    <li class="mt-1 text-[8px]">Insurance & insutech</li>
-                    <li class="mt-1 text-[8px]">Energy & Industries</li>
-                    <li class="mt-1 text-[8px]">Retail & Commerce</li>
-                    <li class="mt-1 text-[8px]">Information Technology</li>
+                    <li class=" mt-6 text-[10px]">Entertainment</li>
+                    <li class=" mt-1 text-[10px] ">Media & OTT </li>
+                    <li class="mt-1 text-[10px]">Banking,Finance & Crypto</li>
+                    <li class="mt-1 text-[10px]">Insurance & insutech</li>
+                    <li class="mt-1 text-[10px]">Energy & Industries</li>
+                    <li class="mt-1 text-[10px]">Retail & Commerce</li>
+                    <li class="mt-1 text-[10px]">Information Technology</li>
                 </ul>
             </div>
             <div class="pl-4 shrink w-52 border-gray-500 left-0 text-gray-900  border-b-[1px]">
                 <ul class="text-[14px] pl-4 font-semibold ">
                     <li class="font-bold ">Contacts</li> 
-                    <li class=" mt-24 text-[8px]">hello@Pocketad.io</li>
-                    <li class="mt-1 text-[8px]">United States/United Kingdom</li>
+                    <li class=" mt-24 text-[10px]">hello@Pocketad.io</li>
+                    <li class="mt-1 text-[10px]">United States/United Kingdom</li>
                 </ul>
             </div>
             
