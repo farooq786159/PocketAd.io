@@ -87,7 +87,7 @@
             <ul class="flex items-center  mt-3 pb-10">
 
                 <li> <button class="rounded-full  font-bold text-[10px]  py-1 outline outline-1  inline-flex px-1">
-                ENG <img src="../new_incons/down-arrow-svgrepo-com.png" width="10" class="mt-1 ml-1 " >
+                ENG <img src="../new_incons/down-arrow-svgrepo-com.png" width="10" class="mt-1  ml-14 " >
                 </button></li>
                 <li class=" text-[10px] pl-3 "> term & condition</li>
                 <li class=" text-[10px] pl-3 "> privacy</li>
