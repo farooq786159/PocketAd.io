@@ -1,14 +1,14 @@
-<script setup>
-</script>
 
 <template>
 <RouterView>
-<footer class="w-full relative   ">
-     <img src="../icons/PocketAd.io_Gradient_Footer.png" alt="" class="  absolute mix-blend-soft-light" >
+<footer class=" relative  w-full h-full ">
+
+     <img src="../icons/PocketAd.io_Gradient_Footer.png" alt="no img"  class="w-full h-full absolute object-cover mix-blend-overlay " >
+     
     <section class="pl-20 pr-20 ">
 
         <article class="flex justify-between  w-full  pt-20  pb-10">
-            <div  class="  w-1/3 text-white  ">
+            <div  class="   text-white  ">
                 <p class=" text-xs" >Keep in touch  </p>
 
                 <div  class="pt-5">
@@ -30,14 +30,14 @@
         <div class=" ml-10  bg-gradient-to-br from-inherit  ">
         
        
-        <article class="flex   ">
+        <article class="flex">
 
                 
             <div class=" shrink  w-52 border-gray-500  text-white text-[26px]  font-semibold relative border-r-[1px] border-b-[1px]">
                 <span class="absolute  left-0 h-20 text-center mt-24  ">Pocket Ad</span>               
             </div>
             
-            <div class=" pl-4  shrink w-36  border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]" >
+            <div class=" pl-4  shrink w-36 z-10 border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]" >
                 <ul class="  text-[14px]  font-semibold  ">
                     <li class="font-bold ">Main</li> 
                     <li class=" mt-16 text-[10px]">Home</li>
@@ -46,7 +46,7 @@
                     <li class="mt-1 text-[10px] pb-10">Team</li>
                 </ul>
             </div>
-            <div class="pl-4 shrink w-36   border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]">
+            <div class="pl-4 shrink w-36 z-10  border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]">
                 <ul class="text-[14px]  font-semibold">
                 <li class="font-bold ">Services</li> 
                 <li class=" mt-12 text-[10px]">Branding & Strategy</li>
@@ -56,7 +56,7 @@
                 <li class="mt-1 text-[10px]">Conversion & Sales</li>
             </ul>
              </div>
-            <div class="pl-4 shrink w-36   border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]">
+            <div class="pl-4 shrink w-36 z-10   border-gray-500 left-0 text-gray-900 border-r-[1px] border-b-[1px]">
                 <ul class="text-[14px]  font-semibold">
                     <li class="font-bold ">Industries</li> 
                     <li class=" mt-6 text-[10px]">Entertainment</li>
@@ -68,7 +68,7 @@
                     <li class="mt-1 text-[10px]">Information Technology</li>
                 </ul>
             </div>
-            <div class="pl-4 shrink w-52 border-gray-500 left-0 text-gray-900  border-b-[1px]">
+            <div class="pl-4 shrink w-52 z-10 border-gray-500 left-0 text-gray-900  border-b-[1px]">
                 <ul class="text-[14px] pl-4 font-semibold ">
                     <li class="font-bold ">Contacts</li> 
                     <li class=" mt-24 text-[10px]">hello@Pocketad.io</li>
@@ -79,17 +79,17 @@
             
             <div class=" border-gray-500 text-gray-900 text-[14px] pl-4 font-semibold relative ">
             <!-- <icon class="object-cover  w-5 text-white block "/>                 -->
-            <img src="../new_incons/svgexport-11.png" class="object-cover w-11  ml-40 ">
+            <img src="../new_incons/svgexport-11.png" class="object-cover w-full h-12 pl-28 pr-20    ">
             </div>
             
         </article>
 
-            <ul class="flex items-center  mt-3 pb-10">
+            <ul class="flex items-center  mt-3 ">
 
-                <li> <button class="rounded-full  font-bold text-[10px]  py-1 outline outline-1  inline-flex px-1">
-                ENG <img src="../new_incons/down-arrow-svgrepo-com.png" width="10" class="mt-1  ml-14 " >
+                <li> <button class="rounded-full  font-bold text-[10px]  py-1 outline outline-1  inline-flex px-2">
+                ENG <img src="../new_incons/down-arrow-svgrepo-com.png" width="10" class="mt-1  ml-10 " >
                 </button></li>
-                <li class=" text-[10px] pl-3 "> term & condition</li>
+                <li class=" text-[10px] pl-10 "> term & condition</li>
                 <li class=" text-[10px] pl-3 "> privacy</li>
                 <li class=" text-[10px] pl-3 mr-52"> Cookies Policy</li>
                 <li class=" text-[10px]  ml-96 "> 2023 - All rights reserved</li>
@@ -101,3 +101,5 @@
 </RouterView>
 </template>
 
+<script setup>
+</script>
